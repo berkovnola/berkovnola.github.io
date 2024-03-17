@@ -22,7 +22,7 @@ Passionate mathematician and computer scientist equipped with a master’s degre
 - Bachelor's in Computer Science - Comenius University, Bratislava (with honours)
 - Internship at ISTA under the supervision of **Thomas Henzinger**
 - [ICALP 2023 paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2023.129)
-- [Master's thesis](https://ora.ox.ac.uk/objects/uuid:a23ad776-81d2-4fcb-8c63-4923295ab0c5) supervised by **James Worrell**
+- [Master's thesis](https://ora.ox.ac.uk/objects/uuid:a23ad776-81d2-4fcb-8c63-4923295ab0c5) supervised by James Worrell
 - Bachelor's thesis supervised by Peter Kostolányi
 - More in the [CV](/cv)
 
