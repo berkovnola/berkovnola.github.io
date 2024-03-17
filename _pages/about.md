@@ -2,24 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Looking for a PhD starting September 2024
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Passionate mathematician and computer scientist equipped with a master’s degree from the University of Oxford. Committed to ongoing learning and research in theoretical computer science. **Looking for a PhD** in computer science logic from September 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- MSc in Mathematics and Foundations of Computer Science – **University of Oxford** (with a distinction)
+- Bachelor's in Computer Science - Comenius University, Bratislava (with honours)
+- Internship at ISTA under the supervision of **Thomas Henzinger**
+- [ICALP 2023 paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2023.129)
+- [Master's thesis](https://ora.ox.ac.uk/objects/uuid:a23ad776-81d2-4fcb-8c63-4923295ab0c5) supervised by **James Worrell**
+- Bachelor's thesis supervised by Peter Kostolányi
+- More in the [CV](/cv)
+
+
+Interests
+
+- Logic in computer science
+- Reasoning, epistemic logic, multi-agent systems, game theory
+- Verification, automata theory
